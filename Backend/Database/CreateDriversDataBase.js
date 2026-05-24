@@ -15,7 +15,7 @@ async function  createDriversDataBase(){
 
      db = await open({
 
-         filename: path.join("DriverDataBase.db"),
+         filename: path.join("Backend", "Database", "DriverDataBase.db"),
          driver: sqlite3.Database
     })
 
@@ -24,12 +24,13 @@ async function  createDriversDataBase(){
    await  db.exec(`
         
         CREATE TABLE IF NOT EXISTS Drivers_Data(
-        Year INTEGER NOT NULL,
-        Round INTEGER NOT NULL,
-        Driver Text NOT NULL,
-        Team Text NOT NULL,
-        Points REAL NOT NULL
-        
+        Year INTEGER ,
+        Round INTEGER ,
+        Points REAL ,
+        StandingsPosition INTEGER,
+        Name Text ,
+        Team Text 
+              
         )      
         
         `)
