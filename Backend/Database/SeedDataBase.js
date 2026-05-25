@@ -16,7 +16,7 @@ async function  seedData(){
 
     db = await open({
 
-          filename:  path.join("Backend", "Database", "DriverDataBase.db"),
+          filename:  path.join("Backend", "Database", "newDriverDataBase.db"),
           driver: sqlite3.Database
 
 
@@ -39,11 +39,11 @@ async function  seedData(){
 
                  await  db.run(`
                     
-                    INSERT into Drivers_Data (Year,Round,Points,StandingsPosition,Name,Team) VALUES (?,?,?,?,?,?)
+                    INSERT into Drivers_Data (Year,Round,Points,StandingsPosition,Name,Team,RaceName) VALUES (?,?,?,?,?,?,?)
                     
                     
                     
-                    `,driverData["Year"],driverData["Round"],driverData["Points"],driverData["StandingsPosition"],driverData["Name"],driverData["Team"])
+                    `,driverData["Year"],driverData["Round"],driverData["Points"],driverData["StandingsPosition"],driverData["Name"],driverData["Team"],driverData["RaceName"])
 
             }
 
@@ -61,6 +61,9 @@ async function  seedData(){
 catch(error){
     console.log(error)
     await db.exec(`ROLLBACK`)
+}
+finally{
+    if(db){await db.close()}
 }
 
 

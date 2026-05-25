@@ -1,15 +1,15 @@
-import express from "express"
-import {getRace} from "../controllers/GetRace.js"
-import {getYear} from "../controllers/GetYear.js"
-import {getData} from "../controllers/GetData.js"
+import express, { json } from "express"
+import {getRaces} from "../controllers/GetRaces.js"
+import {getYears} from "../controllers/GetYears.js"
+import {getDriverStandings} from "../controllers/GetDriverStandings.js"
 
 
 export const apiRouter = express.Router()
 
 
-apiRouter.get("/",getData)
-apiRouter.get("/year",getYear)
-apiRouter.get("/Race",getRace)
-
+apiRouter.get("/",(req,res)=>{res.json("invalid endpoint")})
+apiRouter.get("/years",getYears)
+apiRouter.get("/Races",getRaces)
+apiRouter.get("/getDriverStanding/:year/:round",getDriverStandings)
 
 
