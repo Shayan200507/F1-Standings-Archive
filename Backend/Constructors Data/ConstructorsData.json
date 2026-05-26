@@ -1,0 +1,3462 @@
+[
+  [
+    [
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "27"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "27"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "18"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 4,
+        "Team": "williams",
+        "Points": "10"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "8"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 6,
+        "Team": "sauber",
+        "Points": "6"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 7,
+        "Team": "ferrari",
+        "Points": "5"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "0"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 9,
+        "Team": "rb",
+        "Points": "0"
+      },
+      {
+        "Year": 2025,
+        "Round": 1,
+        "Position": 10,
+        "Team": "haas",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "78"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "57"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "36"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 4,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 5,
+        "Team": "ferrari",
+        "Points": "17"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "14"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "10"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "6"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 9,
+        "Team": "rb",
+        "Points": "3"
+      },
+      {
+        "Year": 2025,
+        "Round": 2,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "111"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "75"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "61"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "35"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "19"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "15"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "10"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "7"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "6"
+      },
+      {
+        "Year": 2025,
+        "Round": 3,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "151"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "93"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "71"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "57"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 5,
+        "Team": "haas",
+        "Points": "20"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 6,
+        "Team": "williams",
+        "Points": "19"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "10"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "7"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "6"
+      },
+      {
+        "Year": 2025,
+        "Round": 4,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "6"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "188"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "111"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "89"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "78"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "25"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "20"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "10"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "8"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "6"
+      },
+      {
+        "Year": 2025,
+        "Round": 5,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "6"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "246"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "141"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "105"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "94"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "37"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "20"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "14"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "8"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "7"
+      },
+      {
+        "Year": 2025,
+        "Round": 6,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "6"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "279"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "147"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "131"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "114"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "51"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "20"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "14"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "10"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "7"
+      },
+      {
+        "Year": 2025,
+        "Round": 7,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "6"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "319"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "147"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "143"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "142"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "54"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "26"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "22"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 8,
+        "Team": "aston_martin",
+        "Points": "14"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "7"
+      },
+      {
+        "Year": 2025,
+        "Round": 8,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "6"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "362"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "165"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "159"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "144"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "54"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "28"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "26"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "16"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 9,
+        "Team": "aston_martin",
+        "Points": "16"
+      },
+      {
+        "Year": 2025,
+        "Round": 9,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "11"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "374"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "199"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "183"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "162"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "55"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "28"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "28"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 8,
+        "Team": "aston_martin",
+        "Points": "22"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "20"
+      },
+      {
+        "Year": 2025,
+        "Round": 10,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "11"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "417"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "210"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "209"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "162"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "55"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "36"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "29"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 8,
+        "Team": "aston_martin",
+        "Points": "28"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "26"
+      },
+      {
+        "Year": 2025,
+        "Round": 11,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "11"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "460"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "222"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "210"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "172"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "59"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 6,
+        "Team": "sauber",
+        "Points": "41"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "36"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 8,
+        "Team": "aston_martin",
+        "Points": "36"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "29"
+      },
+      {
+        "Year": 2025,
+        "Round": 12,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "19"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "516"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "248"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "220"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "192"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "70"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 6,
+        "Team": "sauber",
+        "Points": "43"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "41"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 8,
+        "Team": "aston_martin",
+        "Points": "36"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "35"
+      },
+      {
+        "Year": 2025,
+        "Round": 13,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "559"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "260"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "236"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "194"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "70"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 6,
+        "Team": "aston_martin",
+        "Points": "52"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 7,
+        "Team": "sauber",
+        "Points": "51"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "45"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "35"
+      },
+      {
+        "Year": 2025,
+        "Round": 14,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "584"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "260"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "248"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "214"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "80"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 6,
+        "Team": "aston_martin",
+        "Points": "62"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "60"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "51"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "44"
+      },
+      {
+        "Year": 2025,
+        "Round": 15,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "617"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "280"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "260"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "239"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "86"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 6,
+        "Team": "aston_martin",
+        "Points": "62"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "61"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "55"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "44"
+      },
+      {
+        "Year": 2025,
+        "Round": 16,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "623"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "290"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "286"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "272"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "101"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "72"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "62"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "55"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "44"
+      },
+      {
+        "Year": 2025,
+        "Round": 17,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "650"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "325"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "298"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "290"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "102"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "72"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "68"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "55"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "46"
+      },
+      {
+        "Year": 2025,
+        "Round": 18,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "678"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "341"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "334"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "331"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "111"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "72"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "69"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "59"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 9,
+        "Team": "haas",
+        "Points": "48"
+      },
+      {
+        "Year": 2025,
+        "Round": 19,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "713"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "356"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "355"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 4,
+        "Team": "red_bull",
+        "Points": "346"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "111"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "72"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "69"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 8,
+        "Team": "haas",
+        "Points": "62"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "60"
+      },
+      {
+        "Year": 2025,
+        "Round": 20,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "20"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "756"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "398"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "366"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "362"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "111"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "82"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "72"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 8,
+        "Team": "haas",
+        "Points": "70"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "62"
+      },
+      {
+        "Year": 2025,
+        "Round": 21,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "22"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "756"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "431"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "391"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "378"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "121"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "90"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "73"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 8,
+        "Team": "aston_martin",
+        "Points": "72"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "68"
+      },
+      {
+        "Year": 2025,
+        "Round": 22,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "22"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "800"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "459"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "426"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "382"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "137"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "92"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "80"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 8,
+        "Team": "haas",
+        "Points": "73"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "68"
+      },
+      {
+        "Year": 2025,
+        "Round": 23,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "22"
+      }
+    ],
+    [
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "833"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 2,
+        "Team": "mercedes",
+        "Points": "469"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "451"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 4,
+        "Team": "ferrari",
+        "Points": "398"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 5,
+        "Team": "williams",
+        "Points": "137"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "92"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 7,
+        "Team": "aston_martin",
+        "Points": "89"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 8,
+        "Team": "haas",
+        "Points": "79"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "70"
+      },
+      {
+        "Year": 2025,
+        "Round": 24,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "22"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "44"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "27"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 3,
+        "Team": "mercedes",
+        "Points": "16"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 4,
+        "Team": "mclaren",
+        "Points": "12"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "3"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 6,
+        "Team": "sauber",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 1,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "87"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "49"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "28"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "26"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "13"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "1"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 7,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 8,
+        "Team": "sauber",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 9,
+        "Team": "rb",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 2,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "97"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "93"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "55"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "26"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "25"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "6"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "4"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 3,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "141"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "120"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "69"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "34"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "33"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "4"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 9,
+        "Team": "sauber",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 4,
+        "Position": 10,
+        "Team": "alpine",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "195"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "151"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "96"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "52"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "40"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "5"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 5,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "239"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "187"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "124"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "64"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "42"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "19"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "1"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 6,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "268"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "212"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "154"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "79"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "44"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "20"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "1"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "0"
+      },
+      {
+        "Year": 2024,
+        "Round": 7,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "276"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "252"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "184"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "96"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "44"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "24"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "2"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "2"
+      },
+      {
+        "Year": 2024,
+        "Round": 8,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "301"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "252"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "212"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "124"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "58"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "28"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "5"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "2"
+      },
+      {
+        "Year": 2024,
+        "Round": 9,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "330"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "270"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "237"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "151"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "58"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "28"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 7,
+        "Team": "alpine",
+        "Points": "8"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 8,
+        "Team": "haas",
+        "Points": "7"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "2"
+      },
+      {
+        "Year": 2024,
+        "Round": 10,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "355"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "291"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "268"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "196"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "58"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "30"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "19"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "9"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "2"
+      },
+      {
+        "Year": 2024,
+        "Round": 11,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "373"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "302"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 3,
+        "Team": "mclaren",
+        "Points": "295"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "221"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "68"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "31"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "27"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "9"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "4"
+      },
+      {
+        "Year": 2024,
+        "Round": 12,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "389"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 2,
+        "Team": "mclaren",
+        "Points": "338"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "322"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "241"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "69"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "33"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "27"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "9"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "4"
+      },
+      {
+        "Year": 2024,
+        "Round": 13,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "408"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 2,
+        "Team": "mclaren",
+        "Points": "366"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "345"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "266"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "73"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "34"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "27"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "11"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "4"
+      },
+      {
+        "Year": 2024,
+        "Round": 14,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "434"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 2,
+        "Team": "mclaren",
+        "Points": "404"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "370"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "276"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "74"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "34"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "27"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "13"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "4"
+      },
+      {
+        "Year": 2024,
+        "Round": 15,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 1,
+        "Team": "red_bull",
+        "Points": "446"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 2,
+        "Team": "mclaren",
+        "Points": "438"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "407"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "292"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "74"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "34"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "28"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 8,
+        "Team": "alpine",
+        "Points": "13"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "6"
+      },
+      {
+        "Year": 2024,
+        "Round": 16,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "476"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 2,
+        "Team": "red_bull",
+        "Points": "456"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "425"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "309"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "82"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "34"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "29"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "16"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "13"
+      },
+      {
+        "Year": 2024,
+        "Round": 17,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "516"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 2,
+        "Team": "red_bull",
+        "Points": "475"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "441"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "329"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "86"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 6,
+        "Team": "rb",
+        "Points": "34"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "31"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "16"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "13"
+      },
+      {
+        "Year": 2024,
+        "Round": 18,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "544"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 2,
+        "Team": "red_bull",
+        "Points": "504"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 3,
+        "Team": "ferrari",
+        "Points": "496"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "344"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "86"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "38"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "36"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "13"
+      },
+      {
+        "Year": 2024,
+        "Round": 19,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "566"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "537"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "512"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "366"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "86"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "46"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 7,
+        "Team": "rb",
+        "Points": "36"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 8,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 9,
+        "Team": "alpine",
+        "Points": "14"
+      },
+      {
+        "Year": 2024,
+        "Round": 20,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "593"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "557"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "544"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "382"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "86"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 6,
+        "Team": "alpine",
+        "Points": "49"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "46"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "44"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2024,
+        "Round": 21,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "608"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "584"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "555"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "425"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "86"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 6,
+        "Team": "haas",
+        "Points": "50"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 7,
+        "Team": "alpine",
+        "Points": "49"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "46"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2024,
+        "Round": 22,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "0"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "640"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "619"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "581"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "446"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "92"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 6,
+        "Team": "alpine",
+        "Points": "59"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "54"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "46"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2024,
+        "Round": 23,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "4"
+      }
+    ],
+    [
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 1,
+        "Team": "mclaren",
+        "Points": "666"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 2,
+        "Team": "ferrari",
+        "Points": "652"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 3,
+        "Team": "red_bull",
+        "Points": "589"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 4,
+        "Team": "mercedes",
+        "Points": "468"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 5,
+        "Team": "aston_martin",
+        "Points": "94"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 6,
+        "Team": "alpine",
+        "Points": "65"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 7,
+        "Team": "haas",
+        "Points": "58"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 8,
+        "Team": "rb",
+        "Points": "46"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 9,
+        "Team": "williams",
+        "Points": "17"
+      },
+      {
+        "Year": 2024,
+        "Round": 24,
+        "Position": 10,
+        "Team": "sauber",
+        "Points": "4"
+      }
+    ]
+  ]
+]
