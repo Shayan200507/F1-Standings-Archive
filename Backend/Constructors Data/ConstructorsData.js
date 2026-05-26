@@ -48,7 +48,7 @@ try{
 
 }
 catch(error){
-    throw error
+    console.log(error)
 }
 
 
@@ -58,7 +58,9 @@ catch(error){
 }
 
 
-await WriteFile(2024)
+for(let i = 2018; i >=2010; i--){
+    await WriteFile(i)
+}
 
 
 
