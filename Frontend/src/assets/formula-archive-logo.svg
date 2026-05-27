@@ -1,0 +1,10 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Formula Archive logo</title>
+  <desc id="desc">An original racing-inspired Formula Archive logo with transparent background.</desc>
+  <path d="M10 48L22 16H42L30 48H10Z" fill="#E10600"/>
+  <path d="M39 48L51 16H70L58 48H39Z" fill="white"/>
+  <path d="M67 48L79 16H99L87 48H67Z" fill="#E10600"/>
+  <path d="M112 16H146L142 26H120L118 31H138L135 40H115L112 48H100L112 16Z" fill="white"/>
+  <path d="M148 16H160L148 48H136L148 16Z" fill="white"/>
+  <path d="M16 55H140" stroke="#E10600" stroke-width="4" stroke-linecap="round"/>
+</svg>

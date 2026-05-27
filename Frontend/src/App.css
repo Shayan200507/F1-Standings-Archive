@@ -1,0 +1,43 @@
+body{
+
+     background: #15151e;
+      margin: 0;
+ 
+
+
+}
+
+
+.header{
+
+    color: white;
+    background: black;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    font-size: clamp(0.65rem,0.65rem,0.65rem);
+   
+    font-family: "Inter", Arial, sans-serif;
+   
+    align-items: center;
+ 
+
+
+
+
+}
+
+.header >h1{
+
+}
+
+
+
+.header >img{
+
+  height: auto ;
+  width: clamp(120px,120px,120px);
+
+ 
+
+}
