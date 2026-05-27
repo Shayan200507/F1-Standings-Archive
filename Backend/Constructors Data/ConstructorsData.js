@@ -58,7 +58,7 @@ catch(error){
 }
 
 
-for(let i = 2018; i >=2010; i--){
+for(let i = 2010; i >=2010; i--){
     await WriteFile(i)
 }
 
