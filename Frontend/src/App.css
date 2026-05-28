@@ -38,6 +38,20 @@ body{
   height: auto ;
   width: clamp(120px,120px,120px);
 
- 
+
+}
+
+
+
+.SelectionHeading{
+
+color: white;
+ font-family: "Inter", Arial, sans-serif;
+ display: flex;
+ justify-content: center;
+ margin-top: clamp(100px,10vh,200px);
+ font-size: clamp(10px,8vh,20px);
+
+
 
 }
