@@ -1,11 +1,13 @@
 import express from "express";
 import {apiRouter} from "./routers/ApiRouter.js"
+import cors from "cors";
 
 const Port =  8000
 
 const app = express()
 
-
+app.use(cors())
+app.use(express.static("Frontend"))
 app.use("/api",apiRouter)
 
 

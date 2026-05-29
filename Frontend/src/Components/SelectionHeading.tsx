@@ -5,8 +5,7 @@ import type { JSX } from "react";
 
 
 
-export function SelectionHeading():JSX.Element{
-
+export function SelectionHeading(prop: {text: string}):JSX.Element{
 
 
 
@@ -16,7 +15,7 @@ export function SelectionHeading():JSX.Element{
         <>
         <div className="SelectionHeading">
 
-           <h1>Select a Year</h1>
+           <h1>{prop.text}</h1>
 
 
 
