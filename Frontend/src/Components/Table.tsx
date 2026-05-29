@@ -15,12 +15,24 @@ export function Table(prop: propType):JSX.Element{
 
  
     const driverStandingsElements = prop.driverStandings.map((Element,index) =>{return <tr key={index}>
+  
+
+           <td>{Element.Points}</td>
+           <td>{Element.StandingsPosition}</td>
+           <td>{Element.Name}</td>
+           <td>{Element.Team}</td>
 
 
-           <th>{Element.Points}</th>
-           <th>{Element.StandingsPosition}</th>
-           <th>{Element.Name}</th>
-           <th>{Element.Team}</th>
+
+    </tr>})
+
+
+      const constructorStandingElements = prop.constructorStandings.map((Element,index) =>{return <tr key={index}>
+  
+
+           <td>{Element.Points}</td>
+           <td>{Element.Standings}</td>
+           <td>{Element.Team}</td>
 
 
 
@@ -30,17 +42,28 @@ export function Table(prop: propType):JSX.Element{
     return(
 
     <>
-    <table className="driverStandings"> 
-        <tr className="driverStandingsHeader">
+    <div className="standingsTables">
+    {prop.driverStandings.length !== 0 &&<table className="driverStandings"> 
+        <tr className="  driverStandingsHeader">
            <th>Points</th>
-           <th>StandingsPosition</th>
+           <th>Standings Position</th>
            <th>Name</th>
            <th>Team</th>
         </tr>
         {driverStandingsElements}
-    </table>
+    </table>}
+
+
+    {prop.constructorStandings.length !== 0 &&<table className="constructorStandings"> 
+        <tr className="constructorStandingsHeader">
+           <th>Standings</th>
+           <th>Team</th>
+           <th>Points</th>
+        </tr>
+        {constructorStandingElements}
+    </table>}
     
-    
+    </div>
     
     </>
 

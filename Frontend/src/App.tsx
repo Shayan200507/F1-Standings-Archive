@@ -64,7 +64,11 @@ const [years,setyears] = useState<JSX.Element[]>([])
        
         if(SelectedYear === -1){ return}
         fetch(`http://localhost:8000/api/Races?year=${SelectedYear}`).then(res => res.json())
-        .then(data=>setRaces(data.map((Element:{RaceName:string}) => {return Element.RaceName})))}
+        .then(data=>setRaces(data.map((Element:{RaceName:string}) => {return Element.RaceName})))
+     
+      
+      }
+        
       
       ,[SelectedYear])
 
@@ -83,13 +87,14 @@ const [years,setyears] = useState<JSX.Element[]>([])
                if(SelectedRace === ""){ return}
                console.log(SelectedYear)
                console.log(SelectedRace)
+               const round = Races.indexOf(SelectedRace) + 1
                
-               fetch(`http://localhost:8000/api/getDriverStanding/${SelectedYear}/${Races.indexOf(SelectedRace)}`)
+               fetch(`http://localhost:8000/api/getDriverStanding/${SelectedYear}/${round}`)
                .then(res => res.json())
                .then(data =>setDriverStandings(data) )
 
 
-               fetch(`http://localhost:8000/api/getConstructorStanding/${SelectedYear}/${Races.indexOf(SelectedRace)}`)
+               fetch(`http://localhost:8000/api/getConstructorStanding/${SelectedYear}/${round}`)
                .then(res => res.json())
                .then(data => setConstructorStandings(data))
 
@@ -108,6 +113,8 @@ const [years,setyears] = useState<JSX.Element[]>([])
        const year = event.target.value;
        setSelectedYear(Number(year))
        setSelectionState("Select a Race")
+       setConstructorStandings([])
+       setDriverStandings([])
   }
 
 

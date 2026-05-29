@@ -96,3 +96,43 @@ option{
 table{
   background-color: white;
 }
+
+
+.standingsTables{
+  display: flex;
+  gap: clamp(5px,5vh,40px);
+}
+
+
+
+
+.constructorStandings{
+  max-width: 100px;
+}
+
+
+.driverStandings,
+.constructorStandings{
+
+   color: white;
+   background-color: black;
+   font-family: "Inter", Arial, sans-serif;
+   border-radius: 5px;
+    padding: clamp(10px,8vh,20px);
+
+ 
+
+
+
+}
+
+.driverStandings th,
+.driverStandings td {
+  padding: 8px 16px;
+}
+
+
+.constructorStandings th,
+.constructorStandings td {
+  gap: 6px 10px;
+}
