@@ -3,6 +3,7 @@ import './App.css'
 import {Header} from "./Components/Header.tsx"
 import {SelectionHeading} from "./Components/SelectionHeading.tsx"
 import {Form} from "./Components/Forms.tsx"
+import {Table} from "./Components/Table.tsx"
 import React, {useState} from "react"
 import type {JSX}from "react"
 import {useEffect} from "react"
@@ -127,11 +128,11 @@ const [years,setyears] = useState<JSX.Element[]>([])
       <div className='appBody'>
       <SelectionHeading  text = {selectionState} />
       <Form  YearHandler= {HandleYear} YearList={years}  Year={SelectedYear}  RaceHandler={HandleRaces} RaceList={Races.map((Element:string,index: number): JSX.Element =>{ return  <option key={index}   value={Element}>{Element}</option>})} Race = {SelectedRace} />
+      
+      <Table  driverStandings={DriverStandings}  constructorStandings={ConstructorStandings} />
       </div>
     </>
   )
 }
 
 export default App
-
-
