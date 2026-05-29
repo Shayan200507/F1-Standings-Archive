@@ -8,7 +8,9 @@ type propType = {
 YearHandler: (event:React.ChangeEvent<HTMLInputElement|HTMLSelectElement >) => void
 YearList: JSX.Element[]
 Year: number
-
+RaceHandler: (event:React.ChangeEvent<HTMLInputElement|HTMLSelectElement >) => void
+RaceList: JSX.Element[]
+Race: string
 
 
 
@@ -59,8 +61,9 @@ export function Form(prop: propType){
 
 
 
-           {prop.Year !== -1 && <select  className="raceSelector" name="Race">
+           {prop.Year !== -1 && <select key={prop.Year} defaultValue="" className="raceSelector" name="Race">
                 <option value="" disabled>--Select an option--</option>
+                {prop.RaceList}
 
           </select>}
 
