@@ -7,20 +7,39 @@ import React, {useState} from "react"
 import type {JSX}from "react"
 import {useEffect} from "react"
 
+export type driverStandingElement = {
+     Points : number
+    StandingsPosition: number
+    Name: string
+    Team: string
 
+}
+
+export type constructorStandingElement = {
+
+     Standings: number
+     Team: string
+     Points: number
+
+
+}
 
 function App() {
 
   const [selectionState,setSelectionState] = useState<string>("Select a Year") 
   const [SelectedYear,setSelectedYear] = useState<number>(-1)
-  const [Races,setRaces] = useState<JSX.Element[]>([])
+  const [Races,setRaces] = useState<string[]>([]) 
   const [SelectedRace,setSelectedRace] = useState<string>("")
+  const [DriverStandings,setDriverStandings] = useState<driverStandingElement[]>([])
+  const [ConstructorStandings,setConstructorStandings] = useState<constructorStandingElement[]>([])
 
 
 
 const [years,setyears] = useState<JSX.Element[]>([])
   
 
+
+//fetch of the years
  useEffect(()=>{
 
      
@@ -39,21 +58,44 @@ const [years,setyears] = useState<JSX.Element[]>([])
 
 
 
+//fetch of the races
        useEffect(()=>{
        
         if(SelectedYear === -1){ return}
         fetch(`http://localhost:8000/api/Races?year=${SelectedYear}`).then(res => res.json())
-        .then(data=>setRaces(data.map((Element:{RaceName: string},index: number): JSX.Element =>{ return  <option key={index}   value={Element.RaceName}>{Element.RaceName}</option>} )))
+        .then(data=>setRaces(data.map((Element:{RaceName:string}) => {return Element.RaceName})))}
+      
+      ,[SelectedYear])
 
 
 
+//setRaces(data.map((Element:{RaceName: string},index: number): JSX.Element =>{ return  <option key={index}   value={Element.RaceName}>{Element.RaceName}</option>})
 
 
-
-       },[SelectedYear])
-
+       
 
 
+//fetch of the standings
+
+        useEffect(() =>{
+
+               if(SelectedRace === ""){ return}
+               console.log(SelectedYear)
+               console.log(SelectedRace)
+               
+               fetch(`http://localhost:8000/api/getDriverStanding/${SelectedYear}/${Races.indexOf(SelectedRace)}`)
+               .then(res => res.json())
+               .then(data =>setDriverStandings(data) )
+
+
+               fetch(`http://localhost:8000/api/getConstructorStanding/${SelectedYear}/${Races.indexOf(SelectedRace)}`)
+               .then(res => res.json())
+               .then(data => setConstructorStandings(data))
+
+              
+            
+
+        },[SelectedRace])
 
 
   
@@ -84,7 +126,7 @@ const [years,setyears] = useState<JSX.Element[]>([])
 
       <div className='appBody'>
       <SelectionHeading  text = {selectionState} />
-      <Form  YearHandler= {HandleYear} YearList={years}  Year={SelectedYear}  RaceHandler={HandleRaces} RaceList={Races} Race = {SelectedRace} />
+      <Form  YearHandler= {HandleYear} YearList={years}  Year={SelectedYear}  RaceHandler={HandleRaces} RaceList={Races.map((Element:string,index: number): JSX.Element =>{ return  <option key={index}   value={Element}>{Element}</option>})} Race = {SelectedRace} />
       </div>
     </>
   )

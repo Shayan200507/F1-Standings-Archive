@@ -61,7 +61,7 @@ export function Form(prop: propType){
 
 
 
-           {prop.Year !== -1 && <select key={prop.Year} defaultValue="" className="raceSelector" name="Race">
+           {prop.Year !== -1 && <select  onChange={(event) => prop.RaceHandler(event)} key={prop.Year} defaultValue="" className="raceSelector" name="Race">
                 <option value="" disabled>--Select an option--</option>
                 {prop.RaceList}
 
