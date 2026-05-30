@@ -44,23 +44,38 @@ export function Table(prop: propType):JSX.Element{
     <>
     <div className="standingsTables">
     {prop.driverStandings.length !== 0 &&<table className="driverStandings"> 
+        
+        
+        <thead>
         <tr className="  driverStandingsHeader">
            <th>Points</th>
            <th>Standings Position</th>
            <th>Name</th>
            <th>Team</th>
         </tr>
-        {driverStandingsElements}
+      </thead>
+
+
+
+        <tbody>{driverStandingsElements}</tbody>
+        
     </table>}
 
 
     {prop.constructorStandings.length !== 0 &&<table className="constructorStandings"> 
+        
+        <thead>
         <tr className="constructorStandingsHeader">
            <th>Standings</th>
            <th>Team</th>
            <th>Points</th>
         </tr>
-        {constructorStandingElements}
+        </thead>
+        
+        
+        
+        <tbody>{constructorStandingElements}</tbody>
+        
     </table>}
     
     </div>
